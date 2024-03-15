@@ -3,5 +3,5 @@
 The following repo is a shiny app created in R which contains an interactive UI and analysis of the Election data of Sweden in 2022
 
 
-Can use the below code:
+To run the app:
 runGitHub("Siddhesh19991/shinyapp")
